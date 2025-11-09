@@ -23,3 +23,4 @@ Random Forest: Handles feature importance well and avoids overfitting.
 
 --> Insight  
 The project successfully demonstrates how machine learning can distinguish between metallic mines and natural rocks based on sonar frequency data. With preprocessing, proper scaling, and model tuning, we can achieve ~ 70–85% accuracy, proving the potential of AI in underwater object detection.
+Streamlit app link --> https://sonar-rock-vs-mine-prediction-with-python-machine-learning-pro.streamlit.app/
